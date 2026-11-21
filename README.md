@@ -20,7 +20,7 @@ I am a **Data Analyst** who helps businesses turn messy, raw data into clear, ac
 #### 🤝 Available for Data Analytics Gigs & Roles
 Open to freelance projects, contract roles, and full-time **Data Analyst / BI Analyst** opportunities.
 * **LinkedIn:** [linkedin.com/in/karachi-arabomen](https://linkedin.com)
-* **Email:** arabomenkarachi@gmail.com
+* **Email:** karachiarabomen@gmail.com
 
 <!--
 **Karabome/Karabome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
