@@ -3,7 +3,9 @@
 
 I am a **Data Analyst** who helps businesses turn messy, raw data into clear, actionable insights and interactive dashboards. Whether you need automated reporting, database querying, or executive-ready visuals, I build reliable solutions that drive smart decisions.
 
-#### 💼 Services & Expertise
+![image profile](file_00000000ee2081f4888b9dc6f8c9b3b3.png) 
+
+## Services & Expertise
 * **📊 Interactive Dashboard Design:** Building clean, user-friendly reports in **Power BI** and **Microsoft Excel** to track KPIs, sales trends, and operational performance.
 * **🗄️ SQL Data Analysis & Querying:** Writing optimized **MySQL** queries (Joins, CTEs, Window Functions, Aggregations) to answer critical business intelligence questions.
 * **🧹 Data Cleaning & Modeling:** Transforming unstructured spreadsheets into clean **Star Schema** data models using **Power Query**, **DAX**, and advanced Excel formulas.
