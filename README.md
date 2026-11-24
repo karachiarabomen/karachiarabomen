@@ -1,9 +1,7 @@
 
 # Hi there, I'm Karachi Marian Arabomen 
 
-### I am a **Data Analyst** who helps businesses turn messy, raw data into clear, actionable insights and interactive dashboards.
-
-Whether you need automated reporting, database querying, or executive-ready visuals, I build reliable solutions that drive smart decisions.
+### I am a **Data Analyst** who helps businesses turn messy, raw data into clear, actionable insights and interactive dashboards. Whether you need automated reporting, database querying, or executive-ready visuals, I build reliable solutions that drive smart decisions.
 
 ![image profile](file_00000000ee2081f4888b9dc6f8c9b3b3.png) 
 
