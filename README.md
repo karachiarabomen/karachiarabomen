@@ -1,4 +1,4 @@
-# Hi there, I'm Karachi Marian Arabomen 
+# Hello, I'm Karachi Marian Arabomen 
 
 I am a **Data Analyst** who helps businesses turn messy, raw data into clear, actionable insights and interactive dashboards. Whether you need automated reporting, database querying, or executive-ready visuals, I build reliable solutions that drive smart decisions.
 
@@ -23,10 +23,12 @@ I am a **Data Analyst** who helps businesses turn messy, raw data into clear, ac
 - **Enterprise Sales Analytics Model (Power BI):** Engineered a scalable 1-to-many relational data model with custom time-intelligence DAX measures to track Total Sales, Average Order Value, and employee performance.
 
 ## CERTIFICATIONS
-LeadHER Women in Tech – Data Analysis Track | 2026Completed professional training in Microsoft Excel, Power BI and SQL.IBM SkillsBuild CertificationsArtificial Intelligence FundamentalsCybersecurityCloud ComputingDigital credentials: https://www.credly.com/users/karachi-marian-arabomen
-
+LeadHER Women in Tech – Data Analysis Track | 2026Completed professional training in Microsoft Excel, Power BI and SQL.IBM SkillsBuild 
 **IBM** — Data Fundamentals
 **UniAthena** — Essentials of MS Excel (Formulas & Functions)
+CertificationsArtificial Intelligence FundamentalsCybersecurityCloud ComputingDigital credentials: https://www.credly.com/users/karachi-marian-arabomen
+
+
 
 ## Available for Data Analytics Gigs & Roles
 Open to freelance projects, contract roles, and full-time **Data Analyst / BI Analyst** opportunities.
