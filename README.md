@@ -23,10 +23,14 @@ I am a **Data Analyst** who helps businesses turn messy, raw data into clear, ac
 - **Enterprise Sales Analytics Model (Power BI):** Engineered a scalable 1-to-many relational data model with custom time-intelligence DAX measures to track Total Sales, Average Order Value, and employee performance.
 
 ## CERTIFICATIONS
-LeadHER Women in Tech – Data Analysis Track | 2026Completed professional training in Microsoft Excel, Power BI and SQL.IBM SkillsBuild 
+LeadHER Women in Tech – Data Analysis 2026
+Completed professional training in Microsoft Excel, Power BI and SQL.
 **IBM** — Data Fundamentals
+Certifications Artificial Intelligence Fundamentals Cybersecurity
+Cloud Computing
+Digital credentials: 
 **UniAthena** — Essentials of MS Excel (Formulas & Functions)
-CertificationsArtificial Intelligence FundamentalsCybersecurityCloud ComputingDigital credentials: https://www.credly.com/users/karachi-marian-arabomen
+https://www.credly.com/users/karachi-marian-arabomen
 
 
 
